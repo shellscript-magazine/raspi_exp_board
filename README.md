@@ -1,2 +1,7 @@
-# raspi_exp_board
-Serialized article, Commercial expansion board of Raspberry Pi
+# シェルスクリプトマガジン連載
+# 「市販の拡張ボードで楽々！ Raspberry Piを100%活用しよう」コード集
+
+シェルスクリプトマガジン連載で使用したプログラムをまとめて掲載しています。
+
+- vol68 … 第1回　電子ペーパーディスプレイを試そう
+
